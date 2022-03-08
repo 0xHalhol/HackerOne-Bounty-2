@@ -1,0 +1,10 @@
+email.redditgifts.com
+phabricator.redditgifts.com
+ssl.redditgifts.com
+static.redditgifts.com
+www.phabricator.redditgifts.com
+www.redditgifts.com
+www.ssl.redditgifts.com
+o1.email.redditgifts.com
+o1.ptr7660.redditgifts.com
+o2.ptr9360.redditgifts.com

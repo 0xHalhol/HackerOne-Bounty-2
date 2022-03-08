@@ -1,0 +1,5 @@
+cns1.redditstatic.com
+cns2.redditstatic.com
+cns3.redditstatic.com
+postcards.redditstatic.com
+www.redditstatic.com

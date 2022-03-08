@@ -1,0 +1,6 @@
+www.spotifyresonate.com
+audiences-dashboard.spotifyresonate.com
+live.spotifyresonate.com
+audiences.spotifyresonate.com
+dashboard.spotifyresonate.com
+cs-dashboard.spotifyresonate.com

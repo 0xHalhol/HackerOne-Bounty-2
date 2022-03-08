@@ -1,0 +1,6 @@
+web-dev-v2.np.playmaster.gg
+insiders.playmaster.gg
+assets.playmaster.gg
+np.playmaster.gg
+devops.playmaster.gg
+api.playmaster.gg
